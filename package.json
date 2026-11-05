@@ -1,0 +1,15 @@
+{
+  "name": "discord-telegram-message-bridge",
+  "private": true,
+  "type": "module",
+  "packageManager": "bun@1.4.4",
+  "engines": {
+    "bun": ">=1.4.4"
+  },
+  "scripts": {
+    "start": "bun discord-telegram-message-bridge.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
